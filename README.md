@@ -1,8 +1,9 @@
 <h1>Hello! I'm Germán Schmuker 🚀</h1>
 <h2>Student developer 🖥</h2>
+<br>
 
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=GermanSchmuker&show_icons=true&bg_color=007EC6&text_color=ffffff&title_color=ffffff&icon_color=000000)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=GermanSchmuker&show_icons=true&bg_color=368CBFFF&text_color=ffffff&title_color=ffffff&icon_color=000000)
 
 
 ### Contact Me
